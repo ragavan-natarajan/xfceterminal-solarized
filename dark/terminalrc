@@ -1,3 +1,5 @@
+# Place this file in location ~/.config/xfce4/terminal/
+
 [Configuration]
 ColorCursor=#93a1a1
 ColorForeground=#839496
